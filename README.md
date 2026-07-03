@@ -87,8 +87,7 @@ Hybrid (LLM + NN)	Best stability	Lowest	Best
 │ Backtracking Solver        │
 └─────────┬──────────────────┘
           ↓
-      Solution
-
+       Solution
 ## 🧪 OpenRouter Integration (Optional)
 
 **When the model is uncertain:**
